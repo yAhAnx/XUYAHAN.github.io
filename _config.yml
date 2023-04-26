@@ -1,8 +1,8 @@
 # site settings
-title: Yahan Xu's Personal Website
-subtitle: by YAHAN XU
-email: yx584@cornell.edu
-description: This is Yahan, first year master's student at Cornell University pursuing a degree in Financial Enginering.
+title: "Yahan Xu's Personal Website"
+subtitle: "by YAHAN XU"
+email: "yx584@cornell.edu"
+description: "This is Yahan, first year master's student at Cornell University pursuing a degree in Financial Enginering."
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
